@@ -15,7 +15,7 @@ Episode # | Guest | Title | Spotify | Keywords
 11 | Juergen Schmidhuber | Godel Machines, Meta-Learning, and LSTMs | [Link](https://open.spotify.com/episode/59tf42JBfiM0LgwUqDpim4?si=43c9e6f38a034810) | `lstm` `nlp`
 12 | Tuomas Sandholm | Poker and Game Theory | [Link](https://open.spotify.com/episode/3u7Nx7MaMUB9atbvHpG9Yf?si=e73d2d8fa3164ada) | `game theory` `machine learning`
 13 | Tomaso Poggio | Brains, Minds, and Machines | [Link](https://open.spotify.com/episode/0v2xKRxDYSSkACnyyeuRq8?si=79e4fba216f9460d) | `intelligence` `neural networks`
-14 | Kyle Vogt | Podcast title | [Link](https://open.spotify.com/episode/5QaLJZFjOmbdUJ3Qe4irfA?si=cc98418e96d849d5) | `autonomous driving` `cruise`
+14 | Kyle Vogt | Cruise Automation | [Link](https://open.spotify.com/episode/5QaLJZFjOmbdUJ3Qe4irfA?si=cc98418e96d849d5) | `autonomous driving` `cruise`
 15 | Leslie Kaelbling | Reinforcement Learning, Planning, and Robotics | [Link](https://open.spotify.com/episode/0vY58QUJ9KcGxNNyTXo9Ak?si=3174250918214a13) | `reinforcement learning` `robotics`
 17 | Greg Brockman | OpenAI and AGI | [Link](https://open.spotify.com/episode/6RGwLZ2eqxTzJeOpNKGiqt?si=6b6ce6395cf44e51) | `agi` `beneficial ai`
 18 | Elon Musk | Tesla Autopilot | [Link](https://open.spotify.com/episode/27mgNTf7SUQFfIUrsgPNkI?si=4cd0873a54474e73) | `autonomous driving` `tesla`
