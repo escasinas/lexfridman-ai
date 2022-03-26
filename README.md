@@ -15,4 +15,14 @@ Episode # | Guest | Title | Spotify | Keywords
 11 | Juergen Schmidhuber | Godel Machines, Meta-Learning, and LSTMs | [Link](https://open.spotify.com/episode/59tf42JBfiM0LgwUqDpim4?si=43c9e6f38a034810) | `lstm` `nlp`
 12 | Tuomas Sandholm | Poker and Game Theory | [Link](https://open.spotify.com/episode/3u7Nx7MaMUB9atbvHpG9Yf?si=e73d2d8fa3164ada) | `game theory` `machine learning`
 13 | Tomaso Poggio | Brains, Minds, and Machines | [Link](https://open.spotify.com/episode/0v2xKRxDYSSkACnyyeuRq8?si=79e4fba216f9460d) | `intelligence` `neural networks`
-14 | Kyle Vogt | Podcast title | [Link](https://open.spotify.com/episode/5QaLJZFjOmbdUJ3Qe4irfA?si=cc98418e96d849d5) | `cruise` `autonomous driving`
+14 | Kyle Vogt | Podcast title | [Link](https://open.spotify.com/episode/5QaLJZFjOmbdUJ3Qe4irfA?si=cc98418e96d849d5) | `autonomous driving` `cruise`
+15 | Leslie Kaelbling | Reinforcement Learning, Planning, and Robotics | [Link](https://open.spotify.com/episode/0vY58QUJ9KcGxNNyTXo9Ak?si=3174250918214a13) | `reinforcement learning` `robotics`
+17 | Greg Brockman | OpenAI and AGI | [Link](https://open.spotify.com/episode/6RGwLZ2eqxTzJeOpNKGiqt?si=6b6ce6395cf44e51) | `agi` `beneficial ai`
+18 | Elon Musk | Tesla Autopilot | [Link](https://open.spotify.com/episode/27mgNTf7SUQFfIUrsgPNkI?si=4cd0873a54474e73) | `autonomous driving` `tesla`
+19 | Ian Goodfellow | Generative Adversarial Netwroks (GANs) | [Link](https://open.spotify.com/episode/4b0uodBRkqgF9pndc1XIzd?si=3201c3fd30424e38) | `deep learning` `gans`
+20 | Oriol Vinyals | DeepMind AlphaStar, StarCraft, Language, and Sequences | [Link](https://open.spotify.com/episode/3kHZxc3hbhxMmE1RMDZoyT?si=eeb27f745cd14fc9) | `alphastar` `deep learning`
+21 | Chris Lattner | Compilers, LLVM, Swift, TPU, and ML Accelerators | [Link](https://open.spotify.com/episode/5fpAb2OpRL3Uy8ZTq94vD8?si=5789a142396e45c7) | `swift` `llvm`
+22 | Rajat Monga | TensorFlow | [Link](https://open.spotify.com/episode/6orxzQCBJHbrJasSWlJp7o?si=b23e60374e9d44ab) | `machine learning` `tensorflow`
+25 | Jeff Hawkins | Thousand Brains Theory of Intelligence | [Link](https://open.spotify.com/episode/36fSBVhA7F51YPqjp1CvnL?si=08e3232263b840b9) | `intelligence` `neuroscience`
+27 | Kai-Fu Lee | AI Superpowers - China and Silicon Valley | [Link](https://open.spotify.com/episode/0fmLBsZuGauRp3HMMBCkAq?si=f55c8189920b4bbb) | `ai` `big tech`
+28 | Chris Urmson | Self-Driving Cars at Aurora, Google, CMU, and DARPA | [Link](https://open.spotify.com/episode/7M0TrpqWuNELodRqXYZQFC?si=fb7667dbd6664bed) | `autonomous driving` `aurora`
