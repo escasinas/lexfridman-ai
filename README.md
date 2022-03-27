@@ -26,3 +26,7 @@ Episode # | Guest | Title | Spotify | Keywords
 25 | Jeff Hawkins | Thousand Brains Theory of Intelligence | [Link](https://open.spotify.com/episode/36fSBVhA7F51YPqjp1CvnL?si=08e3232263b840b9) | `intelligence` `neuroscience`
 27 | Kai-Fu Lee | AI Superpowers - China and Silicon Valley | [Link](https://open.spotify.com/episode/0fmLBsZuGauRp3HMMBCkAq?si=f55c8189920b4bbb) | `ai` `big tech`
 28 | Chris Urmson | Self-Driving Cars at Aurora, Google, CMU, and DARPA | [Link](https://open.spotify.com/episode/7M0TrpqWuNELodRqXYZQFC?si=fb7667dbd6664bed) | `autonomous driving` `aurora`
+31 | George Hotz | Comma.ai, OpenPilot, and Autonomous Vehicles | [Link](https://open.spotify.com/episode/0AE0Rd4y1X5s9swtggIoNB?si=20f730d6a729457e) | `autonomous driving` `comma.ai`
+34 | Pamela McCorduck | Machines Who Think and the Early Days of AI | [Link](https://open.spotify.com/episode/523MYYbcE40rE9RBFsyVUB?si=3098c6681c354000) | `ai` `philosophy`
+35 | Jeremy Howard | fast.ai Deep Learning Courses and Research | [Link](https://open.spotify.com/episode/1fvZM0HKcIyYbu0u5gnbSa?si=7dd894bc83624452) | `deep learning` `fast.ai`
+36 | Yann LeCun | Deep Learning, Convolutional Neural Networks, and Self-Supervised Learning | [Link](https://open.spotify.com/episode/0dqFoUq81GDMuXjea8PDda?si=afc3b5ec69714ded) | `convolutional neural networks` `deep learning`
