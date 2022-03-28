@@ -30,3 +30,6 @@ Episode # | Guest | Title | Spotify | Keywords
 34 | Pamela McCorduck | Machines Who Think and the Early Days of AI | [Link](https://open.spotify.com/episode/523MYYbcE40rE9RBFsyVUB?si=3098c6681c354000) | `ai` `philosophy`
 35 | Jeremy Howard | fast.ai Deep Learning Courses and Research | [Link](https://open.spotify.com/episode/1fvZM0HKcIyYbu0u5gnbSa?si=7dd894bc83624452) | `deep learning` `fast.ai`
 36 | Yann LeCun | Deep Learning, Convolutional Neural Networks, and Self-Supervised Learning | [Link](https://open.spotify.com/episode/0dqFoUq81GDMuXjea8PDda?si=afc3b5ec69714ded) | `convolutional neural networks` `deep learning`
+38 | François Chollet | Keras, Deep Learning, and the Progress of AI | [Link](https://open.spotify.com/episode/3J2YfCKbBdOHMrbJJaB9c3?si=QnetMtNPTxyff8kn0qsbmQ) | `deep learning` `keras`
+40 | Regina Barzilay | Deep Learning for Cancer Diagnosis and Treatment | [Link](https://open.spotify.com/episode/0d0ZrfIS9hN8uu4ryixUOW?si=lGka7KR3Sga7VSlvUMYWxw) | `cancer` `deep learning`
+42 | Peter Norvig | Artificial Intelligence: A Modern Approach | [Link](https://open.spotify.com/episode/7oqj5aihx2IpOPa9nVNv0j?si=3XN9YqBjQbydF0cBUej1pQ) | `ai programming` `modern ai`
