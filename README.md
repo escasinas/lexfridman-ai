@@ -36,3 +36,8 @@ Episode # | Guest | Title | Spotify | Keywords
 43 | Gary Marcus | Toward a Hybrid of Deep Learning and Symbolic AI | [Link](https://open.spotify.com/episode/0vIojNeWzo3EGLuUSZgZUY?si=geK8M_snRFqGgQaCNnVXpg) | `deep learning` `symbolic ai`
 44 | David Ferrucci | IBM Watson, Jeopardy & Deep Conversations with AI | [Link](https://open.spotify.com/episode/0VV3Z0NAbtr38ZmHybW8DA?si=cGSYcO2xT0ytUI4xb-poPg) | `ibm watson` `jeopardy`
 49 | Elon Musk | Neuralink, AI, Autopilot, and the Pale Blue Dot | [Link](https://open.spotify.com/episode/1PZZu5RTAeqjc9VVzDl88w?si=YwEybKMSTMyAK90obHMxMg) | `autopilot` `neuralink`
+50 | Michael Kearns | Algorithmic Fairness, Bias, Privacy, and Ethics in Machine Learning | [Link](https://open.spotify.com/episode/3QS8iWIQxczZ4dsg8SKwqh?si=D1IYK40DR_i9tjJe1gM3-w) | `algorithms` `ethics`
+52 | Gilbert Strang | Linear Algebra, Deep Learning, Teaching, and MIT OpenCourseWare | [Link](https://open.spotify.com/episode/0PbMkyQ6msgNiym5wt6vyY?si=bFfSrS0MTi-Sr55iXyKO1w) | `deep learning` `linear algebra`
+53 | Noam Chomsky | Language, Cognition, and Deep Learning | [Link](https://open.spotify.com/episode/6R45SucGiDehNIiDddAfly?si=EWkO_qopQnCWDVMPf4YhNA) | `cognition` `deep learning`
+56 | Judea Pearl | Causal Reasoning, Counterfactuals, Bayesian Networks, and the Path to AGI | [Link](https://open.spotify.com/episode/4B76DewevJy9f6rGPHyovI?si=7xAiZEkZTd2anMPKquWX8w) | `agi` `bayesian networks`
+57 | Rohit Prasad | Amazon Alexa and Conversational AI | [Link](https://open.spotify.com/episode/6Wz9aV70ghFRnT7WsoRRR0?si=VxboLe2FT9KHuaGwihm03A) | `alexa` `nlp`
