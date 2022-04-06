@@ -41,3 +41,4 @@ Episode # | Guest | Title | Spotify | Keywords
 53 | Noam Chomsky | Language, Cognition, and Deep Learning | [Link](https://open.spotify.com/episode/6R45SucGiDehNIiDddAfly?si=EWkO_qopQnCWDVMPf4YhNA) | `cognition` `deep learning`
 56 | Judea Pearl | Causal Reasoning, Counterfactuals, Bayesian Networks, and the Path to AGI | [Link](https://open.spotify.com/episode/4B76DewevJy9f6rGPHyovI?si=7xAiZEkZTd2anMPKquWX8w) | `agi` `bayesian networks`
 57 | Rohit Prasad | Amazon Alexa and Conversational AI | [Link](https://open.spotify.com/episode/6Wz9aV70ghFRnT7WsoRRR0?si=VxboLe2FT9KHuaGwihm03A) | `alexa` `nlp`
+59 | Sebastian Thrun | Flying Cars, Autonomous Vehicles, and Education | [Link](https://open.spotify.com/episode/1VkwiXXbsOCCVdKCP1Okod?si=_-t_JEVHRdqW88H28qozzw) | `autonomous driving` `udacity`
